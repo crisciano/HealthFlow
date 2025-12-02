@@ -1,0 +1,2 @@
+export OPENAI_API_KEY=sk-*********_API;
+export DATABASE_URL=postgresql://postgres:postgres@localhost:5432/healthflow;

@@ -1,0 +1,6 @@
+Django
+streamlit
+openai-agents
+fastmcp
+psycopg2-binary
+uv
